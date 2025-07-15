@@ -1,0 +1,7 @@
+classes_file: classes.txt
+dataset_path: /home/anton/Downloads/12_RGB_ObjDet_640_fL(1)/12_RGB_ObjDet_640_fL
+image_subdir: images
+label_subdir: labels
+species_info_file: class12_RGB_all_L.xlsx
+train_dir: train
+val_dir: val
