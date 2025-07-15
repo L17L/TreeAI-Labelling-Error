@@ -59,10 +59,3 @@ The tool works by:
 
 This project serves as a reproducible demonstration of the labeling issues. Researchers and dataset providers can use this tool to verify the findings and correct the underlying data.
 
-## Future Work
-
-The discovery of these mislabeling issues suggests a need for a comprehensive audit of the entire dataset. While dead trees were chosen initially because they are visually distinctive and easy to verify without expert knowledge, future work should include:
-
-1. Systematic review of other species labels with domain experts
-2. Statistical analysis of labeling consistency across the dataset
-3. Development of automated methods to detect potential mislabeling
